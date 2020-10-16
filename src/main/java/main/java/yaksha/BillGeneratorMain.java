@@ -13,7 +13,7 @@ public class BillGeneratorMain {
 	        int puff=sc.nextInt();
 	        System.out.println("Enter the no of cool drinks bought:");
 	        int drink=sc.nextInt();
-	        double total=   snack.generateBill(pizza,puff,drink);
+	        /* Your code here call method generate bill and pass all input taken from user*/
 	        System.out.println("Total price="+total);
 	         System.out.println("ENJOY THE SHOW!!!");
 	}
